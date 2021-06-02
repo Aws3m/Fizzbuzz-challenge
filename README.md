@@ -1,2 +1,2 @@
 # Fizzbuzz-challenge
-fizzbuzz challenge
+fizzbuzz challenge for interview
