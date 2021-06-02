@@ -1,8 +1,9 @@
 import unittest
+import fizzbuzz_challenge_main
 
 
-class MyTestCase(unittest.TestCase):
-    def test_something(self):
+class fizzbuzzfizzbuzzChallenge(unittest.TestCase):
+    def test_(self):
         self.assertEqual(True, False)
 
 
