@@ -5,7 +5,8 @@ For numbers which are multiples of both three and five print FizzBuzz.
 Please also include any test you deem necessary."""
 
 def fizzbuzz(index):
-    if (index % 3 == 0) and (index % 5 == 0):
+    #if (index % 3 == 0) and (index % 5 == 0):
+    if index % 15 == 0:
         return "FizzBuzz"
     elif index % 3 == 0:
         return "Fizz"
